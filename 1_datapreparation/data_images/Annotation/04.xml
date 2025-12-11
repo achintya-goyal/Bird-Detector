@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>04.jpg</filename>
+	<path>C:\Users\Achintya Goyal\Desktop\object detection project\1_datapreparation\data_images\04.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>987</width>
+		<height>1023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pigeon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>110</ymin>
+			<xmax>898</xmax>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+</annotation>
